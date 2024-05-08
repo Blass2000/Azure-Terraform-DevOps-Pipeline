@@ -1,6 +1,11 @@
 # Azure-Terraform-DevOps-Pipeline
 The Azure Provider can be used to configure infrastructure in Microsoft Azure using the Azure Resource Manager API’s. Here are some general instructions to set this up and a guide to project leaders as what to expect from the development team if this is part of a project plan. 
 
+1. Set up Azure Provider
+2. Construct Terraform - How Terraform Works
+3. Initialize the Terraform Repo
+4. Run Terraform apply
+5. Check and Test DevOps CI/CD Pipeline
 # Azure Provider
 The Azure Provider can be used to configure infrastructure in Microsoft Azure using the Azure Resource Manager API’s.
 
@@ -17,11 +22,7 @@ Click → Service Principal and a Client Secret
 - Organizations can use subscriptions to manage costs and the resources that are created by users, teams, and projects.
 ![image](https://github.com/Blass2000/Azure-Terraform-DevOps-Pipeline/assets/89789502/b958ff1c-c286-4739-8d07-90e3e579fffc)
 
--General steps as outlined in document within this repository - - 
+-General steps are outlined in document within this repository - - 
 
-1. Set up Azure Provider
-2. Construct Terraform - How Terraform Works
-3. Initialize the Terraform Repo
-4. Run Terraform apply
-5. Check and Test DevOps CI/CD Pipeline
+
    
